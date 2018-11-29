@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<GetProductCategoriesForASINResponse xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01">
+  <GetProductCategoriesForASINResult>
+    <Self>
+      <ProductCategoryId>3421054011</ProductCategoryId>
+      <ProductCategoryName>Shoelaces</ProductCategoryName>
+      <Parent>
+        <ProductCategoryId>9616100011</ProductCategoryId>
+        <ProductCategoryName>Shoe Care &amp; Accessories</ProductCategoryName>
+        <Parent>
+          <ProductCategoryId>7586146011</ProductCategoryId>
+          <ProductCategoryName>Shoe, Jewelry &amp; Watch Accessories</ProductCategoryName>
+          <Parent>
+            <ProductCategoryId>7141124011</ProductCategoryId>
+            <ProductCategoryName>Departments</ProductCategoryName>
+            <Parent>
+              <ProductCategoryId>7141123011</ProductCategoryId>
+              <ProductCategoryName>Clothing, Shoes &amp; Jewelry</ProductCategoryName>
+            </Parent>
+          </Parent>
+        </Parent>
+      </Parent>
+    </Self>
+  </GetProductCategoriesForASINResult>
+  <ResponseMetadata>
+    <RequestId>51ac759a-5fef-4389-9fc5-d86d3ee73dde</RequestId>
+  </ResponseMetadata>
+</GetProductCategoriesForASINResponse>

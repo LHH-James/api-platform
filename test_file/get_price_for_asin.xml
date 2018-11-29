@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<GetMyPriceForASINResponse xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01">
+    <GetMyPriceForASINResult ASIN="B079M1R92S" status="Success">
+        <Product xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01" xmlns:ns2="http://mws.amazonservices.com/schema/Products/2011-10-01/default.xsd">
+            <Identifiers>
+                <MarketplaceASIN>
+                    <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+                    <ASIN>B079M1R92S</ASIN>
+                </MarketplaceASIN>
+            </Identifiers>
+            <Offers/>
+        </Product>
+    </GetMyPriceForASINResult>
+    <GetMyPriceForASINResult ASIN="B079MCGCGQ" status="Success">
+        <Product xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01" xmlns:ns2="http://mws.amazonservices.com/schema/Products/2011-10-01/default.xsd">
+            <Identifiers>
+                <MarketplaceASIN>
+                    <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+                    <ASIN>B079MCGCGQ</ASIN>
+                </MarketplaceASIN>
+            </Identifiers>
+            <Offers/>
+        </Product>
+    </GetMyPriceForASINResult>
+    <ResponseMetadata>
+        <RequestId>d4bddd2f-d265-4345-8ba6-df50e4972004</RequestId>
+    </ResponseMetadata>
+</GetMyPriceForASINResponse>
+

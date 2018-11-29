@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<RequestReportResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <RequestReportResult>
+    <ReportRequestInfo>
+      <ReportType>_GET_FLAT_FILE_OPEN_LISTINGS_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2018-11-22T07:11:32+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>59148017857</ReportRequestId>
+      <SubmittedDate>2018-11-22T07:11:32+00:00</SubmittedDate>
+      <StartDate>2018-11-22T07:11:32+00:00</StartDate>
+    </ReportRequestInfo>
+  </RequestReportResult>
+  <ResponseMetadata>
+    <RequestId>275be0f9-3644-43bf-a4ab-b0a42aa61401</RequestId>
+  </ResponseMetadata>
+</RequestReportResponse>

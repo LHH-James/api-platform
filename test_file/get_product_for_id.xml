@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<GetMatchingProductForIdResponse xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01">
+  <GetMatchingProductForIdResult Id="B079M1R92S" IdType="ASIN" status="Success">
+    <Products xmlns:ns2="http://mws.amazonservices.com/schema/Products/2011-10-01/default.xsd">
+      <Product>
+        <Identifiers>
+          <MarketplaceASIN>
+            <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+            <ASIN>B079M1R92S</ASIN>
+          </MarketplaceASIN>
+        </Identifiers>
+        <AttributeSets>
+          <ns2:ItemAttributes xml:lang="en-US">
+            <ns2:Binding>Apparel</ns2:Binding>
+            <ns2:Brand>GM GOLAIMAN</ns2:Brand>
+            <ns2:Color>White</ns2:Color>
+            <ns2:Department>mens</ns2:Department>
+            <ns2:PackageDimensions>
+              <ns2:Height Units="inches">0.1968503935</ns2:Height>
+              <ns2:Length Units="inches">3.69685038993</ns2:Length>
+              <ns2:Width Units="inches">3.09842519369</ns2:Width>
+              <ns2:Weight Units="pounds">0.03968320716</ns2:Weight>
+            </ns2:PackageDimensions>
+            <ns2:ProductGroup>Shoes</ns2:ProductGroup>
+            <ns2:ProductTypeName>SHOES</ns2:ProductTypeName>
+            <ns2:Size>10 M US</ns2:Size>
+            <ns2:SmallImage>
+              <ns2:URL>http://ecx.images-amazon.com/images/I/51%2BqO2B-MpL._SL75_.jpg</ns2:URL>
+              <ns2:Height Units="pixels">75</ns2:Height>
+              <ns2:Width Units="pixels">75</ns2:Width>
+            </ns2:SmallImage>
+            <ns2:Title>GM GOLAIMAN Round Waxed Cotton Shoelaces Boots Shoe Laces White</ns2:Title>
+          </ns2:ItemAttributes>
+        </AttributeSets>
+        <Relationships>
+          <VariationParent>
+            <Identifiers>
+              <MarketplaceASIN>
+                <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+                <ASIN>B079M2B1SN</ASIN>
+              </MarketplaceASIN>
+            </Identifiers>
+          </VariationParent>
+        </Relationships>
+        <SalesRankings/>
+      </Product>
+    </Products>
+  </GetMatchingProductForIdResult>
+  <GetMatchingProductForIdResult Id="B079MCGCGQ" IdType="ASIN" status="Success">
+    <Products xmlns:ns2="http://mws.amazonservices.com/schema/Products/2011-10-01/default.xsd">
+      <Product>
+        <Identifiers>
+          <MarketplaceASIN>
+            <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+            <ASIN>B079MCGCGQ</ASIN>
+          </MarketplaceASIN>
+        </Identifiers>
+        <AttributeSets>
+          <ns2:ItemAttributes xml:lang="en-US">
+            <ns2:Binding>Apparel</ns2:Binding>
+            <ns2:Brand>GM GOLAIMAN</ns2:Brand>
+            <ns2:Color>Brown</ns2:Color>
+            <ns2:Department>mens</ns2:Department>
+            <ns2:PackageDimensions>
+              <ns2:Height Units="inches">0.199999999796</ns2:Height>
+              <ns2:Length Units="inches">3.699999996226</ns2:Length>
+              <ns2:Width Units="inches">3.099999996838</ns2:Width>
+              <ns2:Weight Units="pounds">0.03968320716</ns2:Weight>
+            </ns2:PackageDimensions>
+            <ns2:ProductGroup>Shoes</ns2:ProductGroup>
+            <ns2:ProductTypeName>SHOES</ns2:ProductTypeName>
+            <ns2:Size>10 M US</ns2:Size>
+            <ns2:SmallImage>
+              <ns2:URL>http://ecx.images-amazon.com/images/I/51%2BqO2B-MpL._SL75_.jpg</ns2:URL>
+              <ns2:Height Units="pixels">75</ns2:Height>
+              <ns2:Width Units="pixels">75</ns2:Width>
+            </ns2:SmallImage>
+            <ns2:Title>GM GOLAIMAN Round Waxed Cotton Shoelaces Boots Shoe Laces Brown</ns2:Title>
+          </ns2:ItemAttributes>
+        </AttributeSets>
+        <Relationships>
+          <VariationParent>
+            <Identifiers>
+              <MarketplaceASIN>
+                <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+                <ASIN>B079M2B1SN</ASIN>
+              </MarketplaceASIN>
+            </Identifiers>
+          </VariationParent>
+        </Relationships>
+        <SalesRankings/>
+      </Product>
+    </Products>
+  </GetMatchingProductForIdResult>
+  <ResponseMetadata>
+    <RequestId>d3b4b111-b771-4ae9-a695-eb9c840782a6</RequestId>
+  </ResponseMetadata>
+</GetMatchingProductForIdResponse>

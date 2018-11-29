@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListInboundShipmentItemsByNextTokenResponse
+  xmlns="http://mws.amazonaws.com/FulfillmentInboundShipment/2010-10-01/">
+  <ListInboundShipmentItemsByNextTokenResult>
+    <ItemData>
+      <member>
+        <QuantityShipped>2</QuantityShipped>
+        <ShipmentId>FBA0000001</ShipmentId>
+        <FulfillmentNetworkSKU>FNSKU1</FulfillmentNetworkSKU>
+        <SellerSKU>SKU00001</SellerSKU>
+        <QuantityReceived>0</QuantityReceived>
+        <QuantityInCase>0</QuantityInCase>
+        <PrepDetailsList>
+          <PrepDetails>
+            <PrepInstruction>Taping</PrepInstruction>
+            <PrepOwner>AMAZON</PrepOwner>
+          </PrepDetails>
+          <PrepDetails>
+            <PrepInstruction>Polybagging</PrepInstruction>
+            <PrepOwner>AMAZON</PrepOwner>
+          </PrepDetails>
+        </PrepDetailsList>
+      </member>
+    </ItemData>
+<NextToken>uJ7azT3papiaJqJYLDm0ZIfVkJJPpovRu+h4GHIH2f5UojdU4H46tsNI3HOI22PIxqXyQLkGMBs8VhF73Xgy+6O6y68JrC7CxD8gRjCqrLVSxhzXajqcovmDOU6fp6slInTAy+XKVmRZBY+oaVuyc4D8eV8v09jgkF1bGZ6P/ng6eU+70V3XHi+GfJJMLStaf2GLmUGyr9UGnxD0RJmrrxhFP8KzGB62m5xaobyXfHTK9kUavBVIe6I4GnWh00CCRxHAuPz7ThaaBUA8hbyHBroItFPqI70tYKJLRAbGuF7q0sjrJVSK8Z0FUIyM6yC5boHX0iN4j9bXUOznDVC2NfUJ1nExbwKxM48r5nOh7ZTzrxRr597AWze71jXZj4BqIYWiflP7yRrhBtgUjYSPlIL7x7hs8aiEXUM5IL/bq6ISyoYkkmy7z4+envNcHi415FBs1CFOdGJYKTGNikHXtM9mNOdUz8cZ</NextToken>
+</ListInboundShipmentItemsByNextTokenResult>
+<ResponseMetadata>
+  <RequestId>9581f746-c8fb-42ca-ad20-42f8a5333a1b</RequestId>
+</ResponseMetadata>
+</ListInboundShipmentItemsByNextTokenResponse>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<GetMatchingProductResponse xmlns="http://mws.amazonservices.com/schema/Products/2011-10-01">
+  <GetMatchingProductResult ASIN="B0731127ND" status="Success">
+    <Product xmlns:ns2="http://mws.amazonservices.com/schema/Products/2011-10-01/default.xsd">
+      <Identifiers>
+        <MarketplaceASIN>
+          <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+          <ASIN>B0731127ND</ASIN>
+        </MarketplaceASIN>
+      </Identifiers>
+      <AttributeSets>
+        <ns2:ItemAttributes xml:lang="en-US">
+          <ns2:Binding>Kitchen</ns2:Binding>
+          <ns2:IsAdultProduct>false</ns2:IsAdultProduct>
+          <ns2:IsAutographed>false</ns2:IsAutographed>
+          <ns2:Model>huij-a</ns2:Model>
+          <ns2:PackageDimensions>
+            <ns2:Height Units="inches">1.9685039350</ns2:Height>
+            <ns2:Length Units="inches">10.6299212490</ns2:Length>
+            <ns2:Width Units="inches">5.9055118050</ns2:Width>
+            <ns2:Weight Units="pounds">0.2645547144</ns2:Weight>
+          </ns2:PackageDimensions>
+          <ns2:PartNumber>huuj-12a</ns2:PartNumber>
+          <ns2:ProductGroup>Beauty</ns2:ProductGroup>
+          <ns2:ProductTypeName>BEAUTY</ns2:ProductTypeName>
+          <ns2:SmallImage>
+            <ns2:URL>http://ecx.images-amazon.com/images/I/41tY-R4xM1L._SL75_.jpg</ns2:URL>
+            <ns2:Height Units="pixels">75</ns2:Height>
+            <ns2:Width Units="pixels">75</ns2:Width>
+          </ns2:SmallImage>
+          <ns2:Title>VIGBAGNIA Travel Toiletry Bag Travel Gym Grooming Shaving Bag Personal Shave Dopp Kit Travel Bottles Organizer Bag Waterproof Lining For Men(Black)</ns2:Title>
+        </ns2:ItemAttributes>
+      </AttributeSets>
+      <Relationships/>
+      <SalesRankings>
+        <SalesRank>
+          <ProductCategoryId>beauty_display_on_website</ProductCategoryId>
+          <Rank>465837</Rank>
+        </SalesRank>
+        <SalesRank>
+          <ProductCategoryId>387321011</ProductCategoryId>
+          <Rank>2136</Rank>
+        </SalesRank>
+      </SalesRankings>
+    </Product>
+  </GetMatchingProductResult>
+  <ResponseMetadata>
+    <RequestId>d2a43d5a-189e-449a-844d-dec79de2f979</RequestId>
+  </ResponseMetadata>
+</GetMatchingProductResponse>

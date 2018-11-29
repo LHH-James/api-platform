@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetFulfillmentOrderResponse
+  xmlns="http://mws.amazonaws.com/FulfillmentOutboundShipment/2010-10-01/">
+  <GetFulfillmentOrderResult>
+    <FulfillmentOrderItem>
+      <member>
+        <SellerSKU>SKU100</SellerSKU>
+        <GiftMessage>giftwrap_message</GiftMessage>
+        <SellerFulfillmentOrderItemId>merchant_order_item_id_2</SellerFulfillmentOrderItemId>
+        <EstimatedShipDateTime>xxxx-xx-xxT07:07:53Z</EstimatedShipDateTime>
+        <DisplayableComment>Example comment</DisplayableComment>
+        <UnfulfillableQuantity>0</UnfulfillableQuantity>
+        <CancelledQuantity>0</CancelledQuantity>
+        <Quantity>1</Quantity>
+        <EstimatedArrivalDateTime>xxxx-xx-xxT08:07:53Z</EstimatedArrivalDateTime>
+        <PerUnitPrice>
+          <CurrencyCode>JPY</CurrencyCode>
+          <Value>2500</Value>
+        </PerUnitPrice>
+        <PerUnitTax>
+          <CurrencyCode>JPY</CurrencyCode>
+          <Value>5000</Value>
+        </PerUnitTax>
+      </member>
+    </FulfillmentOrderItem>
+    <FulfillmentOrder>
+      <ShippingSpeedCategory>ScheduledDelivery</ShippingSpeedCategory>
+      <DeliveryWindow>
+        <StartDateTime>xxxx-xx-xxT03:00:00Z</StartDateTime>
+        <EndDateTime>xxxx-xx-xxT05:00:00Z</EndDateTime>
+      </DeliveryWindow>
+      <NotificationEmailList>
+        <member>o8c2EXAMPLsfr7o@marketplace.amazon.com</member>
+      </NotificationEmailList>
+      <StatusUpdatedDateTime>xxxx-xx-xxT23:48:48Z</StatusUpdatedDateTime>
+      <SellerFulfillmentOrderId>extern_id_1154539615776</SellerFulfillmentOrderId>
+      <DestinationAddress>
+        <PostalCode>153-0002</PostalCode>
+        <Name>Amazon Taro</Name>
+        <CountryCode>JP</CountryCode>
+        <Line1>Meguro-ku Shimomeguro 12-34-56</Line1>
+        <StateOrProvinceCode>Tokyo</StateOrProvinceCode>
+        <Line2>XXX building 101</Line2>
+      </DestinationAddress>
+      <DisplayableOrderDateTime>xxxx-xx-xxT17:26:56Z </DisplayableOrderDateTime>
+      <FulfillmentPolicy>FillOrKill</FulfillmentPolicy>
+      <ReceivedDateTime>xxxx-xx-xxT17:26:56Z</ReceivedDateTime>
+      <DisplayableOrderId>test_displayable_id</DisplayableOrderId>
+      <DisplayableOrderComment>Sample comment</DisplayableOrderComment>
+      <CODSettings>
+        <IsCODRequired>true</IsCODRequired>
+        <CODCharge>
+          <Value>4000</Value>
+          <CurrencyCode>JPY</CurrencyCode>
+        </CODCharge>
+        <CODChargeTax>
+          <Value>300</Value>
+          <CurrencyCode>JPY</CurrencyCode>
+        </CODChargeTax>
+        <ShippingCharge>
+          <Value>1000</Value>
+          <CurrencyCode>JPY</CurrencyCode>
+        </ShippingCharge>
+        <ShippingChargeTax>
+          <Value>75</Value>
+          <CurrencyCode>JPY</CurrencyCode>
+        </ShippingChargeTax>
+      </CODSettings>
+      <FulfillmentOrderStatus>SHIPPED</FulfillmentOrderStatus>
+      <FulfillmentAction>Ship</FulfillmentAction>
+      <MarketplaceId>ATVPDKIKX0DER </MarketplaceId>
+    </FulfillmentOrder>
+    <FulfillmentShipment>
+      <member>
+        <FulfillmentShipmentStatus>SHIPPED</FulfillmentShipmentStatus>
+        <FulfillmentShipmentItem>
+          <member>
+            <SellerSKU>SKU100</SellerSKU>
+            <SellerFulfillmentOrderItemId>merchant_order_item_id_2</SellerFulfillmentOrderItemId>
+            <Quantity>1</Quantity>
+            <PackageNumber>0</PackageNumber>
+          </member>
+        </FulfillmentShipmentItem>
+        <AmazonShipmentId>DnMDLWJWN</AmazonShipmentId>
+        <ShippingDateTime>xxxx-xx-xxT07:00:00Z</ShippingDateTime>
+        <FulfillmentCenterId>RNO1</FulfillmentCenterId>
+        <EstimatedArrivalDateTime>xxxx-xx-xxT07:00:00Z</EstimatedArrivalDateTime>
+      </member>
+    </FulfillmentShipment>
+  </GetFulfillmentOrderResult>
+  <ResponseMetadata>
+    <RequestId>5e5e5694-8e76-11df-929f-87c80302f8f6</RequestId>
+  </ResponseMetadata>
+</GetFulfillmentOrderResponse>

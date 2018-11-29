@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ListOrderItemsByNextTokenResponse xmlns="https://mws.amazonservices.com/Orders/2013-09-01">
+  <ListOrderItemsByNextTokenResult>
+    <OrderItems>
+      <OrderItem>
+        <QuantityOrdered>1</QuantityOrdered>
+        <Title>VIGBAGNIA Triple Layer Travel Cord Organizer Electronics Accessories Case USB Drive Shuttle Travel Gear Carry Bag for Phone Charger and Cable</Title>
+        <PromotionDiscount>
+          <CurrencyCode>USD</CurrencyCode>
+          <Amount>0.00</Amount>
+        </PromotionDiscount>
+        <IsGift>false</IsGift>
+        <ASIN>B072ZZDVDN</ASIN>
+        <SellerSKU>WF-TR-MJC001-Dark Gray</SellerSKU>
+        <OrderItemId>67838965331114</OrderItemId>
+        <IsTransparency>false</IsTransparency>
+        <ProductInfo>
+          <NumberOfItems>1</NumberOfItems>
+        </ProductInfo>
+        <QuantityShipped>1</QuantityShipped>
+        <ItemPrice>
+          <CurrencyCode>USD</CurrencyCode>
+          <Amount>17.50</Amount>
+        </ItemPrice>
+        <ItemTax>
+          <CurrencyCode>USD</CurrencyCode>
+          <Amount>0.00</Amount>
+        </ItemTax>
+        <PromotionDiscountTax>
+          <CurrencyCode>USD</CurrencyCode>
+          <Amount>0.00</Amount>
+        </PromotionDiscountTax>
+      </OrderItem>
+    </OrderItems>
+    <AmazonOrderId>111-6127585-6604237</AmazonOrderId>
+  </ListOrderItemsByNextTokenResult>
+  <ResponseMetadata>
+    <RequestId>f40eaab3-270a-4d0b-9962-5c1182cf8c1b</RequestId>
+  </ResponseMetadata>
+</ListOrderItemsByNextTokenResponse>

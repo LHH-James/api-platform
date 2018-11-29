@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<GetOrderResponse xmlns="https://mws.amazonservices.com/Orders/2013-09-01">
+  <GetOrderResult>
+    <Orders>
+      <Order>
+        <LatestShipDate>2017-05-24T23:20:51Z</LatestShipDate>
+        <OrderType>StandardOrder</OrderType>
+        <PurchaseDate>2017-05-23T21:24:42Z</PurchaseDate>
+        <IsReplacementOrder>false</IsReplacementOrder>
+        <LastUpdateDate>2017-05-24T23:22:35Z</LastUpdateDate>
+        <BuyerEmail>y5cl07wljcdfx8j@marketplace.amazon.com</BuyerEmail>
+        <AmazonOrderId>112-2874858-3353828</AmazonOrderId>
+        <NumberOfItemsShipped>1</NumberOfItemsShipped>
+        <ShipServiceLevel>SecondDay</ShipServiceLevel>
+        <OrderStatus>Shipped</OrderStatus>
+        <SalesChannel>Amazon.com</SalesChannel>
+        <IsBusinessOrder>false</IsBusinessOrder>
+        <NumberOfItemsUnshipped>0</NumberOfItemsUnshipped>
+        <PaymentMethodDetails>
+          <PaymentMethodDetail>Standard</PaymentMethodDetail>
+        </PaymentMethodDetails>
+        <BuyerName>Ralph Villers</BuyerName>
+        <IsPremiumOrder>false</IsPremiumOrder>
+        <OrderTotal>
+          <CurrencyCode>USD</CurrencyCode>
+          <Amount>12.99</Amount>
+        </OrderTotal>
+        <EarliestShipDate>2017-05-24T23:20:51Z</EarliestShipDate>
+        <MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+        <FulfillmentChannel>AFN</FulfillmentChannel>
+        <PaymentMethod>Other</PaymentMethod>
+        <ShippingAddress>
+          <City>Ansonia</City>
+          <PostalCode>06401</PostalCode>
+          <isAddressSharingConfidential>false</isAddressSharingConfidential>
+          <StateOrRegion>CT</StateOrRegion>
+          <CountryCode>US</CountryCode>
+          <Name>Ralph Villers</Name>
+          <AddressLine1>33 Upland Terrace</AddressLine1>
+        </ShippingAddress>
+        <IsPrime>false</IsPrime>
+        <ShipmentServiceLevelCategory>SecondDay</ShipmentServiceLevelCategory>
+        <SellerOrderId>112-2874858-3353828</SellerOrderId>
+      </Order>
+    </Orders>
+  </GetOrderResult>
+  <ResponseMetadata>
+    <RequestId>8ff31de9-cb82-4d46-9ede-e43ccf4a2def</RequestId>
+  </ResponseMetadata>
+</GetOrderResponse>
